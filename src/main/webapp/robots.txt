@@ -1,3 +1,4 @@
 user-agent:*
 disallow:
+Allow: /
 sitemap:http://codersistemas.com.br/sitemap.xml
