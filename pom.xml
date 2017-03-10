@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>coder-site1 Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <url>http://codersistemas.com.br/</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
